@@ -28,7 +28,7 @@ I also created a supporting Excel file to document the revenue calculations and 
 | File                                                                                                         | Description                                        |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
 | 📄 **[Product Analyst Assignment — Saransh Wakode](./Product%20Analyst%20Assignment%20Saransh%20Wakode.md)** | Complete analysis covering all three tasks         |
-| 📊 **[Revenue Calculation](./supporting/revenue_calculation.xlsx)**                                          | Supporting revenue calculations and reconciliation |
+| 📊 **./supporting/calculation%20for%20assignment.xlsx**                                          | Supporting revenue calculations and reconciliation |
 | 📄 **[Resume](./saransh_wakode_resu.pdf)**                                                                   | Resume submitted with the assignment               |
 
 ---
@@ -45,10 +45,44 @@ Monetary normalization, total validation, discrepancy identification, and revenu
 Customer response, engineering bug report, business impact, and recommended fixes.
 
 ---
+**What I Worked On**
+ API & Data Analysis
 
-## Approach
+I compared the documented API behavior with the actual responses and identified issues including:
 
-**Understand → Validate → Identify Issues → Calculate → Assess Impact → Communicate**
+Unsupported order status
+Incorrect order total
+Missing customer information
+Inconsistent monetary formatting
+Incorrect pagination behavior
+Incorrect handling of a nonexistent order
+
+I also looked at the potential impact of these issues on clients, reporting, and downstream systems, rather than treating them as isolated technical errors.
+
+---
+**My Approach**
+
+I followed this process:
+
+Understand → Compare → Validate → Investigate → Quantify → Assess Impact → Communicate
+
+The main thing I tried to do was look beyond the immediate numbers.
+
+For example, instead of only asking:
+
+"What is the revenue?"
+
+I also asked:
+
+Can the revenue number be trusted?
+Does the API actually follow its documentation?
+Where is the discrepancy coming from?
+Could a client interpret the data differently?
+What could this mean for reporting or reconciliation?
+How should the issue be communicated to the customer?
+What can engineering do to prevent it from happening again?
+
+This helped me approach the assignment as a Product Analyst problem involving data quality, business impact, and stakeholder communication, rather than only as a calculation exercise.
 
 ---
 
