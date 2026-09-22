@@ -25,11 +25,11 @@ I also created a supporting Excel file to document the revenue calculations and 
 
 ## 📂 Files
 
-| File                                                                                                         | Description                                        |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| 📄 **[Product Analyst Assignment — Saransh Wakode](./Product%20Analyst%20Assignment%20Saransh%20Wakode.md)** | Complete analysis covering all three tasks         |
-| 📊 **./supporting/calculation%20for%20assignment.xlsx**                                          | Supporting revenue calculations and reconciliation |
-| 📄 **[Resume](./saransh_wakode_resu.pdf)**                                                                   | Resume submitted with the assignment               |
+| File | Description |
+|---|---|
+| 📄 **[Product Analyst Assignment — Saransh Wakode](./Product%20Analyst%20Assignment%20Saransh%20Wakode.md)** | Complete analysis covering all three tasks |
+| 📊 **[Revenue Calculation — Excel](./supporting/calculation%20for%20assignment.xlsx)** | Supporting revenue calculations and reconciliation |
+| 📄 **[Resume](./saransh_wakode_resu.pdf)** | Resume submitted with the assignment |
 
 ---
 
